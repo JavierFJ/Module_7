@@ -85,4 +85,4 @@ To do that, I have created two svg text objects, translated them to their corres
 
 #### Results
 
-![alt text]()
+![Column chart](https://github.com/JavierFJ/Module_7/blob/master/Mandatory_task/Task1.png?raw=true)
