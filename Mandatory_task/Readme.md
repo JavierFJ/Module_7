@@ -4,7 +4,7 @@
 
 ### How to start the project 
 
-These three files must been placed in the same directory. To visualize the resulting chart, open the index1.html file with any web browser.
+These three files (index1,data1 and main1) must been placed in the same directory. To visualize the resulting chart, open the index1.html file with any web browser.
 
 ### Purpose of this task
 
