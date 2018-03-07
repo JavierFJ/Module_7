@@ -63,7 +63,7 @@ Therefore, the MouseOver function is composed of a function that selects the dot
 
 Besides the selected dots must show the text with the pair (Year, Population), so first I create an id to the text (this will allow me to remove it after easily) and the I append it.
 
-The MouseOut function returns the selected dot to its original configuration (black and radius 8, without text)                    
+The MouseOut function returns the selected dot to its original configuration (black and radius 8, without text).                   
 
 #### Step 3: Results
 
