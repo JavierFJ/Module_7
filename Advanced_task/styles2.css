@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+
+  .axis path, .axis line {
+    fill: none;
+    stroke: violet;
+    stroke-width: 3;
+    shape-rendering: crispEdges;  /* Round any decimal pixels so it'll render nicely */
+  }
+  
