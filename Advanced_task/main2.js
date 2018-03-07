@@ -91,7 +91,7 @@
             });
 
             // Select text by id and then remove
-            d3.select("#t" + d.Year + "-" + d.Value + "-" + i).remove();  // Remove text location
+            d3.select("#t" + d.Year + "-" + d.Value + "-" + i).remove();  // Remove the text location
           }
 
 
