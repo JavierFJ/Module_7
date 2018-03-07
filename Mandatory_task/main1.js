@@ -99,7 +99,6 @@ newRects.append('rect')
       })
 
 }
-
 svg.append("text")             
       .attr("transform",
             "translate(" + (width/2) + " ," + 
