@@ -5,5 +5,4 @@ var totalun = [
   { Town: 'Algatocín', Population:132},
   { Town: 'Alfarnate', Population:74}, 
   { Town: 'Alfarnatejo', Population:35}, 
-   
-   ];
+  ];
