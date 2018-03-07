@@ -1,4 +1,4 @@
-var malaga =  [ 
+var malaga = [ 
     {"Year":1998,"Value":528079}, 
     {"Year":1999,"Value":530553}, 
     {"Year":2002,"Value":535686}, 
